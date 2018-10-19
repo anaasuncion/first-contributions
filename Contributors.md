@@ -205,6 +205,7 @@ Edison Shek
 - [Nick Foley](https://github.com/foleyn2)
 - [Roni Yusuf Manalu](https://github.com/rymanalu)
 - [Andi Insanudin](https://github.com/andiisfh)
+- [Ana Asuncion](https://github.com/anaasuncion)
 - [ShubU](http://github.com/shubu)
 - [Eldin Zaimovic](https://github.com/EldinZaimovic)
 - [punisher](https://github.com/punisherpbb)
